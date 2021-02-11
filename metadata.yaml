@@ -1,0 +1,7 @@
+# Copyright 2021 Concise Media Group
+
+homepage: "https://support.getcake.com/support/home"
+documentation: "https://support.getcake.com/support/solutions/articles/13000050224-a-guide-to-conversion-tracking"
+versions:
+    sha: 379eed89a383b0a1a7e56c6b1eb941f87efdf81d
+    changeNotes: Initial Version
