@@ -41,8 +41,10 @@ ___TEMPLATE_PARAMETERS___
 
 ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
+const injectHiddenIframe = require('injectHiddenIframe');
+
 //Concise Pixel
-<iframe src="https://cmgtrk.com/p.ashx?a=271&e=299&t=TRANSACTION_ID" height="1" width="1" frameborder="0"></iframe>;
+injectHiddenIframe('<iframe src="https://cmgtrk.com/p.ashx?a=271&e=299&t=TRANSACTION_ID" height="1" width="1" frameborder="0"></iframe>');
 const log = require('logToConsole');
 log('data =', data);
 
