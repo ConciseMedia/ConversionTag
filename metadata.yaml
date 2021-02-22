@@ -3,6 +3,6 @@
 homepage: "https://support.getcake.com/support/home"
 documentation: "https://support.getcake.com/support/solutions/articles/13000050224-a-guide-to-conversion-tracking"
 versions:
-  - sha: 000f874fd7b0ba3a9abf6e3142b20c2ddf627859
+  - sha: 563abe7038b64f4c9346f59d74c5ee1aee48aa66
     changeNotes: Initial Version
 
