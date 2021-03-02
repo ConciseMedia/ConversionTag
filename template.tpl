@@ -44,7 +44,7 @@ const sendPixel = require('sendPixel');
 const encodeUriComponent = require('encodeUriComponent');
 
 //Concise Pixel
-sendPixel(encodeUriComponent('https://rocnb3cmg.com/p.ashx?o='+data.offer_id+'&e=299&f=img'),data.gtmOnSuccess);
+sendPixel(encodeUriComponent('https://oflinktracker.com/p.ashx?o='+data.offer_id+'&e=299&f=js'),data.gtmOnSuccess);
 
 
 
